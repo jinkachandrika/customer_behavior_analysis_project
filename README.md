@@ -116,17 +116,17 @@ project-folder/
 │   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── sql/
-│   └── customer_shopping_behavior.sql
+│   └── customer_behavior_analysis.sql
 │
 ├── dashboard/
-│   └── Customer_Shopping_dashboard.pbix
+│   └── Customer-Shopping-dashboard.pbix
 |___Problem Statement/
-│    | __Problem Statement.pdf
+│    | __Problem Statement Document.pdf
 ├── reports/
-│   └── customer Shopping Behavior Analtsis.pdf
+│   └── customer Shopping Behavior Analysis.pdf
 │
 ├── presentation/
-│   └──Customer Shopping Behavior Analtsis.pptx
+│   └──Customer Shopping Behavior Analysis.pptx
 │
 └── README.md
 How to Run
@@ -138,16 +138,15 @@ pip install pandas numpy sqlalchemy
 3. Run Jupyter Notebook
 jupyter notebook
 4. Execute SQL Queries
-Open PostgreSQL/MySQL/SQL Server
+MySQL Server
 Run the queries from the sql/queries.sql file
 5. Open Power BI Dashboard
 Open the .pbix file in Power BI Desktop
-Future Improvements
-Automate data pipeline
-Add machine learning models
-Deploy dashboard online
-Integrate real-time data sources
-Author
 
+Future Improvements:
+Add machine learning models
+Integrate real-time data sources
+
+Author
 Jinka Chandrika
 Data Analytics Project Portfolio
