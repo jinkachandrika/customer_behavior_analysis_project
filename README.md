@@ -131,17 +131,16 @@ project-folder/
 └── README.md
 How to Run
 1. Clone the Repository
-git clone <repository-link>
+    git clone https://github.com/jinkachandrika/customer_behavior_analysis_project.git
 cd project-folder
 2. Install Required Libraries
-pip install pandas numpy sqlalchemy
+    pip install pandas numpy sqlalchemy
 3. Run Jupyter Notebook
-jupyter notebook
+    Customer_Shopping_Behavior_Analysis.ipynb file in jupyter notebook
 4. Execute SQL Queries
-MySQL Server
-Run the queries from the sql/queries.sql file
+    customer_bahavior_analysis.sql in MySQL Server
 5. Open Power BI Dashboard
-Open the .pbix file in Power BI Desktop
+    Open the Customer-Shopping-Dashboard.pbix file in Power BI Desktop
 
 Future Improvements:
 Add machine learning models
